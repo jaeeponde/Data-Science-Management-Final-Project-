@@ -1,2 +1,2 @@
 # Data-Science-Management-Final-Project-
-Using Neo4j and sentiment analysis to build a restaurant that matches the needs of a city. 
+This project aims to build an "ideal restaurant" using Yelp data by integrating review sentiment analysis, category and attribute analysis, and social dynamics from the Yelp community. The analysis identifies key topics and sentiments from user reviews, determines popular restaurant categories and features, and leverages user relationships to uncover community preferences. By combining these insights, the project generates a restaurant concept that aligns with user preferences, maximizing satisfaction and appeal within the Yelp community.
